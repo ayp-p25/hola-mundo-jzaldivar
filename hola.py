@@ -1,15 +1,15 @@
 """
-Inserta el encabezado aquí y escribe tu código abajo
+Hols, mundo
+JAZC
+14/feb/25 Feliz dúia del amor
 """
 
-# Declaraciones
-CONSTANTE = valor
 
 # Entradas
-entrada = input()
+nombre = input("'¿Cómo te llamas? " )
 
 # Proceso
-
+saludo = "Hola, " + nombre
 
 # Salidas
-print(salida)
+print(saludo)
