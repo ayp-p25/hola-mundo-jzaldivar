@@ -9,7 +9,8 @@ JAZC
 nombre = input("'¿Cómo te llamas? " )
 
 # Proceso
-saludo = "Hola, " + nombre
+saludo = "Hola, " + nombre + "."
+
 
 # Salidas
 print(saludo)
